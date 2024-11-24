@@ -112,6 +112,10 @@ A arquitetura do **DSSGAI** é composta por várias camadas, cada uma desempenha
 
 O fluxo de dados no **DSSGAI** é projetado para otimizar a eficiência e a precisão da geração de soluções. Os dados são processados através de várias camadas de redes neurais, cada uma contribuindo para o aprimoramento dos resultados finais.
 
+![python_ZJMbExZYRi](https://github.com/user-attachments/assets/0dffe578-fad2-4417-90e8-88183fd38715)
+![python_G69TFhncmm](https://github.com/user-attachments/assets/f3fd0cb7-9bc9-4140-8f9a-9e897cc88cd8)
+![python_qB9rZmhl74](https://github.com/user-attachments/assets/baaec604-4acf-46a2-9b8c-60c4178644ca)
+
 ---
 
 ## 🔍 **Algoritmos e Modelos**
